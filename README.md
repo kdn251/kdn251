@@ -21,6 +21,7 @@ I make videos on [YouTube](https://www.youtube.com/kevinnaughtonjr) about coding
 
 If you need help with interview prep check out the interviewing service I created to help teach people, [The Daily Byte](https://thedailybyte.dev/?ref=kevin).
 
+[Free Software Engineer newsletter](https://kevinnaughtonjr.substack.com/)
 [Twitter](https://twitter.com/KevinNaughtonJr)
 [Instagram](https://www.instagram.com/kevinnaughtonjr/)
 [LinkedIn](https://www.linkedin.com/in/kevindnaughtonjr/)
